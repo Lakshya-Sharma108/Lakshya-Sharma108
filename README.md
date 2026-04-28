@@ -1,9 +1,30 @@
-# 👋 Hi, I'm Lakshya Awasthi!
+# 👋 Hi, I'm Lakshaya Awasthi
 
-## 🚀 About Me
-- 💻 **Aspiring:** Java full-stack developer
-- 📍 **Location:** Bharatpur, Rajasthan
+💻 Aspiring Java Full-Stack Developer  
+📍 Bharatpur, Rajasthan, India
 
-## 🛠 Tech Stack
-- **Languages:** Java, JavaScript
+## 🚀 Tech Stack
 
+- Java
+- Spring Boot
+- JavaScript
+- React.js
+- MySQL
+- Hibernate
+- Git & GitHub
+
+## 📌 Projects
+
+- 🎓 Student Manager System (Spring Boot + JWT + MySQL + React)
+- 🏥 Fullstack wellness webapp
+## 🌱 Currently Learning
+
+- Advanced Java
+- Backend Development
+
+## 📫 Connect With Me
+
+- 📧 lakshayaawasthi108@gmail.com
+
+---
+*"Building real-world applications, one bug at a time."*  
