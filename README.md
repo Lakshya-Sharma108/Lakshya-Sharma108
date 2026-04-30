@@ -13,6 +13,14 @@
 - Hibernate
 - Git & GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya-Sharma108&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=tokyonight&hide_border=true"/>
+</p>
+
 ## 📌 Projects
 
 - 🎓 Student Manager System (Spring Boot + JWT + MySQL + React)
