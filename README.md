@@ -32,11 +32,10 @@
 
 ## 📌 Projects
 
-- 🎓 Student Manager System (Spring Boot + JWT + MySQL + React)
-- 🏥 Fullstack wellness webapp
+*Projects will be updated shortly*
+
 ## 🌱 Currently Learning
 
-- Advanced Java
 - Backend Development
 
 ## 📫 Connect With Me
