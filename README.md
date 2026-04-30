@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=merko&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=dracula&hide_border=true"/>
 </p>
 
 ## 📌 Projects
