@@ -24,10 +24,10 @@
 </p>
 
 
-## Profile Visitors
+## 📈 Activity Graph + Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lakshya-Sharma108&color=brightgreen&style=for-the-badge)
 [![Lakshaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Sharma108&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Views](https://komarev.com/ghpvc/?username=Lakshya-Sharma108&color=brightgreen&style=for-the-badge)
 
 
 ## 📌 Projects
