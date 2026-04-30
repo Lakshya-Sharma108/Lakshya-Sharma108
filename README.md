@@ -5,20 +5,14 @@
 
 ## 🚀 Tech Stack
 
-- Java
-- Spring Boot
-- JavaScript
-- React.js
-- MySQL
-- Hibernate
-- Git & GitHub
+- Java - Spring Boot - JavaScript - React.js - MySQL - Git & GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya-Sharma108&show_icons=true&theme=gruvbox&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakshya-Sharma108&show_icons=true&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=dracula&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=dark&hide_border=true"/>
 </p>
 
 ## 📌 Projects
