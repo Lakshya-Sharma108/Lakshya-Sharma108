@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=F7A500&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lakshaya+Awasthi;Java+Full+Stack+Developer%F0%9F%92%BB;Welcome+on+my+GitHub)](https://git.io/typing-svg)
-
-💻 Aspiring Java Full-Stack Developer  
-📍 Bharatpur, Rajasthan, India
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7A500&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lakshaya+Awasthi;%F0%9F%92%BBJava+Full+Stack+Developer;%F0%9F%93%8D+Bharatpur%2C+Rajasthan)](https://git.io/typing-svg)
 
 ## 🚀 Tech Stack
 
@@ -25,6 +22,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=tokyonight&hide_border=true"/>
 </p>
+
+
+## Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lakshya-Sharma108&color=brightgreen&style=for-the-badge)
+
 
 ## 📌 Projects
 
