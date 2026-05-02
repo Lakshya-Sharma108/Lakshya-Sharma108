@@ -26,7 +26,7 @@
 
 ## 📈 Activity Graph + Profile Views
 
-[![Lakshaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Sharma108&theme=tokyo-night&hide_border=true)]
+![Lakshaya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Sharma108&theme=tokyo-night&hide_border=true)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lakshya-Sharma108&color=brightgreen&style=for-the-badge)
 
 
