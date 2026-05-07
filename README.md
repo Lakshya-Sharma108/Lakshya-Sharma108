@@ -16,27 +16,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Lakshya-Sharma108&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Sharma108&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lakshya-Sharma108&theme=dark&hide_border=true"/>
 </p>
-
-
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
 
 
 ## 📈 Activity Graph + Profile Views
