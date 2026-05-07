@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7A500&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lakshaya+Awasthi;%F0%9F%92%BBJava+Full+Stack+Developer;%F0%9F%93%8D+Bharatpur%2C+Rajasthan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7A500&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Lakshaya+Awasthi;%F0%9F%92%BBJava+Full+Stack+Developer;%F0%9F%93%8D+Bharatpur%2C+Rajasthan)]
 
 ## 🚀 Tech Stack
 
